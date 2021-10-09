@@ -23,13 +23,13 @@ h1 {
   color: #fff;
 }
 .container {
-  width: 300px;
+  width: 290px;
 }
 .result {
-  width: 59.1%;
+  width: 59.0%;
 }
 input {
-  padding: 25px;
+  padding: 24px;
   color: rgb(87, 87, 87);
   font-size: 1em;
   cursor: pointer;
