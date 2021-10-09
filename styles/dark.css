@@ -23,16 +23,16 @@
 h1 {
   text-align: center;
   margin-bottom: 1.5%;
-  color: #000;
+  color: #fff;
 }
 .container {
   width: 300px;
 }
 .result {
-  width: 59.1%;
+  width: 59.2%;
 }
 input {
-  padding: 25px;
+  padding: 26px;
   color: rgb(255, 255, 255);
   font-size: 1em;
   cursor: pointer;
@@ -48,7 +48,7 @@ input {
 .third-row,
 .fourth-row,
 .fifth-row {
-  margin-bottom: 3px;
+  margin-bottom: 4px;
 }
 input[type="text"] {
   background-color: rgb(47, 51, 50);
@@ -57,10 +57,10 @@ input[type="text"] {
 }
 input[type="button"]:hover {
   background-color: rgb(160, 160, 160);
-  color: #fff;
+  color: #000;
 }
 #clear {
-  color: #000;
+  color: #fff;
   background-color: rgb(255, 42, 42);
 }
 button {
