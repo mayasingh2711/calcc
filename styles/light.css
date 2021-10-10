@@ -5,6 +5,8 @@
   margin: 1;
   font-family: "Open Sans", sans-serif;
   font-weight: bold;
+  border-radius: 5px;
+  border-width: 1px;
 }
 
 .wrapper {
