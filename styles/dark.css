@@ -5,7 +5,10 @@
   margin: 0;
   font-family: "Open Sans", sans-serif;
   font-weight: bold;
+  border-radius: 5px;
+  border-width: 1px;
 }
+
 ::placeholder {
   color: rgb(221, 221, 221);
 }
