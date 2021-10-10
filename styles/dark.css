@@ -95,3 +95,10 @@ a {
 .fab {
   font-size: 1.1em;
 }
+
+.class{
+  margin-bottom: 2px;
+  padding-left: 3px;
+  color: blue;
+  background-color: red;
+}
