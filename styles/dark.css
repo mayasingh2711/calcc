@@ -26,20 +26,20 @@
 h1 {
   text-align: center;
   margin-bottom: 1.5%;
-  color: #000;
+  color: rgb(241, 234, 234);
 }
 .container {
   width: 300px;
 }
 .result {
-  width: 59.3%;
+  width: 59.1%;
 }
 input {
-  padding: 26px;
+  padding: 25px;
   color: rgb(255, 255, 255);
   font-size: 1em;
   cursor: pointer;
-  width: 71px;
+  width: 70px;
   background-color: rgb(47, 51, 50);
   border: none;
   outline: none;
@@ -60,10 +60,10 @@ input[type="text"] {
 }
 input[type="button"]:hover {
   background-color: rgb(160, 160, 160);
-  color: #000;
+  color: #fff;
 }
 #clear {
-  color: #fff;
+  color: #000;
   background-color: rgb(255, 42, 42);
 }
 button {
