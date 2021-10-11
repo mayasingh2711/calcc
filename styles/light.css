@@ -98,3 +98,9 @@ a {
 .fab {
   font-size: 1.1em;
 }
+
+.para{
+  font-size: 1.2rem;
+  text-align:center;
+  margin: 2px 3px;
+}
